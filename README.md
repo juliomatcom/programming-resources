@@ -6,10 +6,17 @@
 - [Computer Science in Javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 #### Web resources
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
 - [Node.js for PHP Developers](http://www.google.com/search?q=node%20js%20for%20php%20developers)
 
 
 #### :fire: Daily use
 - [30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+
+#### Awesome posts || videos || confs
+- [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/)
+- [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
+
+#### :neckbeard: Advanced
+- [Pragmatic programmer: from journeyman to master](http://www.google.com/search?q=pragmatic+programmer)
