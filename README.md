@@ -5,6 +5,8 @@
 
 - [Computer Science in Javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
+- [Teach Yourself Shell Programming in 24 Hours](http://www.google.com/search?q=Teach+Yourself+Shell+Programming+in+24+Hours) After you get used to writing scripts, you will find yourself solving more and more problems with them
+
 #### Web resources
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
