@@ -9,6 +9,7 @@
 
 #### Web resources
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
 - [Node.js for PHP Developers](http://www.google.com/search?q=node%20js%20for%20php%20developers)
 
