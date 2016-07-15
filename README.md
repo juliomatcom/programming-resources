@@ -7,6 +7,8 @@
 
 - [Teach Yourself Shell Programming in 24 Hours](http://www.google.com/search?q=Teach+Yourself+Shell+Programming+in+24+Hours) After you get used to writing scripts, you will find yourself solving more and more problems with them
 
+- [Imperative vs Declarative Programming](https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea#.gppmlv98s) *(for humans)*
+
 #### Web resources
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
