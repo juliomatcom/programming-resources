@@ -12,6 +12,7 @@
 #### Web resources
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details): FP 
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
 - [Node.js for PHP Developers](http://www.google.com/search?q=node%20js%20for%20php%20developers)
 
@@ -26,3 +27,5 @@
 
 #### :neckbeard: Advanced
 - [Pragmatic programmer: from journeyman to master](http://www.google.com/search?q=pragmatic+programmer)
+
+*FP Functional programming
