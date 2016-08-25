@@ -9,7 +9,7 @@
 
 - [Imperative vs Declarative Programming](https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea#.gppmlv98s) *(for humans)*
 - Functional programming:
-  - [mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details): FP 
+  - [mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details) 
 - Reactive programming:
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
@@ -30,5 +30,3 @@
 
 #### :neckbeard: Advanced
 - [Pragmatic programmer: from journeyman to master](http://www.google.com/search?q=pragmatic+programmer)
-
-*FP Functional programming
