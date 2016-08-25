@@ -9,6 +9,7 @@
 
 - [Imperative vs Declarative Programming](https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea#.gppmlv98s) *(for humans)*
 - **Functional programming**:
+  - [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \[videos\] ( Mattias Petter Johansson ) 
   - [mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details) 
 - **Reactive programming**:
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
@@ -25,7 +26,6 @@
 
 #### Awesome posts || videos || talks
 - [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/) ( John Resig )
-- [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \[videos\] ( Mattias Petter Johansson )
 - [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/) ( Angus Croll )
 
 #### :neckbeard: Advanced
