@@ -8,9 +8,9 @@
 - [Teach Yourself Shell Programming in 24 Hours](http://www.google.com/search?q=Teach+Yourself+Shell+Programming+in+24+Hours) After you get used to writing scripts, you will find yourself solving more and more problems with them
 
 - [Imperative vs Declarative Programming](https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea#.gppmlv98s) *(for humans)*
-- Functional programming:
+- **Functional programming**:
   - [mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details) 
-- Reactive programming:
+- **Reactive programming**:
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
 #### Web resources
