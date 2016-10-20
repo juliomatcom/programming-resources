@@ -3,6 +3,8 @@
 ### Base
 - [Introduction to Algorithms, Third Edition](http://www.google.com/search?q=mit%20introduction%20to%20algorithms%203rd%20edition%20pdf) If you want a Computer Science background on algorithms, this is your bible, you need to know some Maths
 
+- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) By Kyle Simpson
+
 - [Computer Science in Javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
 
 - [Teach Yourself Shell Programming in 24 Hours](http://www.google.com/search?q=Teach+Yourself+Shell+Programming+in+24+Hours) After you get used to writing scripts, you will find yourself solving more and more problems with them
@@ -16,7 +18,6 @@
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
 ### Web resources
-- [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
 - [Node.js for PHP Developers](http://www.google.com/search?q=node%20js%20for%20php%20developers)
