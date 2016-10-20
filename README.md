@@ -11,6 +11,7 @@
 - **Functional programming**:
   - [Functional programming in JavaScript](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) \[videos\] ( Mattias Petter Johansson ) 
   - [mostly-adequate-guide](https://www.gitbook.com/book/drboolean/mostly-adequate-guide/details) 
+  - [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) By Kyle Simpson
 - **Reactive programming**:
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
