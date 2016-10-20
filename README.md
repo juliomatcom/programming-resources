@@ -27,6 +27,7 @@
 - [30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 ### Awesome posts || videos || talks
+- [The JavaScript Programming Language](https://youtu.be/v2ifWcnQs6M) By Douglas Crockford [video] History, Language, Advanced Features, Platforms, Standards, Style
 - [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/) ( John Resig )
 - [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/) ( Angus Croll )
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [video]
