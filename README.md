@@ -1,6 +1,6 @@
-### :bookmark: Programming and CS resources that we should read
+# :bookmark: Programming and CS resources that we should read
 
-#### Base
+### Base
 - [Introduction to Algorithms, Third Edition](http://www.google.com/search?q=mit%20introduction%20to%20algorithms%203rd%20edition%20pdf) If you want a Computer Science background this is your bible
 
 - [Computer Science in Javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
@@ -15,20 +15,20 @@
 - **Reactive programming**:
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
-#### Web resources
+### Web resources
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
 - [Node.js for PHP Developers](http://www.google.com/search?q=node%20js%20for%20php%20developers)
 
 
-#### :fire: Daily use
+### :fire: Daily use
 - [30 CSS Selectors You Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
-#### Awesome posts || videos || talks
+### Awesome posts || videos || talks
 - [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/) ( John Resig )
 - [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/) ( Angus Croll )
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [video]
 
-#### :neckbeard: Advanced
+### :neckbeard: Advanced
 - [Pragmatic programmer: from journeyman to master](http://www.google.com/search?q=pragmatic+programmer)
