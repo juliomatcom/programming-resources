@@ -36,4 +36,5 @@
 - [http://www.2ality.com/](http://www.2ality.com/) JavaScript and more by Dr. Axel Rauschmayer
 
 ### :neckbeard: Advanced
+- [Simplicity Matters](https://youtu.be/rI8tNMsozo0) by Rich Hickey, the author of Clojure [video]
 - [Pragmatic programmer: from journeyman to master](http://www.google.com/search?q=pragmatic+programmer)
