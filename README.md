@@ -31,7 +31,7 @@
 - [How JavaScript Timers Work](http://ejohn.org/blog/how-javascript-timers-work/) ( John Resig )
 - [Understanding JavaScript Prototypes](https://javascriptweblog.wordpress.com/2010/06/07/understanding-javascript-prototypes/) ( Angus Croll )
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [video]
-
+- [Favoring Curry](http://fr.umio.us/favoring-curry/) by frumious
 ### Awesome blogs
 - [http://www.2ality.com/](http://www.2ality.com/) JavaScript and more by Dr. Axel Rauschmayer
 
