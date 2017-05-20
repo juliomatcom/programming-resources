@@ -20,6 +20,7 @@
 
 ### Web resources
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
+- [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/#leanpub-auto-introduction) by Nicholas C. Zakas
 - [Sams Teach Yourself PHP, MySQL and Apache All in One](http://www.google.com/search?q=sams+php)
 - [Node.js for PHP Developers](http://www.google.com/search?q=node%20js%20for%20php%20developers)
 
