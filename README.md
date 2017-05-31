@@ -36,6 +36,7 @@
 - [Philip Roberts: What the heck is the event loop anyway? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) [video]
 - [ECMAScript 6 modules: the final syntax](http://www.2ality.com/2014/09/es6-modules-final.html) ( 2ality )
 - [Favoring Curry](http://fr.umio.us/favoring-curry/) ( frumious ) 
+- [Latency Numbers Every Programmer Should Know](https://gist.github.com/jboner/2841832)
 
 ### Awesome blogs
 - [http://www.2ality.com/](http://www.2ality.com/) JavaScript and more by Dr. Axel Rauschmayer
