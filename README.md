@@ -19,7 +19,7 @@
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
 ### NodeJS resources
-- [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY&t=317s) By Ryan Dahl
+- [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY&t=317s)  - [slides](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf) By Ryan Dahl
 
 ### Web resources
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
