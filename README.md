@@ -18,6 +18,9 @@
 - **Reactive programming**:
   - [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
 
+### NodeJS resources
+- [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY&t=317s) By Ryan Dahl
+
 ### Web resources
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
 - [Understanding ECMAScript 6](https://leanpub.com/understandinges6/read/#leanpub-auto-introduction) by Nicholas C. Zakas
