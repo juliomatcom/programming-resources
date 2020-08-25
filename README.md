@@ -5,7 +5,9 @@
 
 - [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS) By Kyle Simpson. 
 
-- [Computer Science in Javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript
+- [Computer Science in Javascript](https://github.com/nzakas/computer-science-in-javascript) Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript  
+
+- [Big-O and Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM) This course teaches data structures to beginners using high quality animations to represent the data structures visually.
 
 - [Teach Yourself Shell Programming in 24 Hours](http://www.google.com/search?q=Teach+Yourself+Shell+Programming+in+24+Hours) After you get used to writing scripts, you will find yourself solving more and more problems with them
 
