@@ -22,6 +22,7 @@
 
 ### NodeJS resources
 - [Original Node.js presentation](https://www.youtube.com/watch?v=ztspvPYybIY&t=317s)  - [slides](http://s3.amazonaws.com/four.livejournal/20091117/jsconf.pdf) By Ryan Dahl
+- [What is AMD, CommonJS, and UMD?](https://www.davidbcalhoun.com/2014/what-is-amd-commonjs-and-umd/) 
 
 ### Web resources
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
